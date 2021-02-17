@@ -1,4 +1,4 @@
-# BCNN Bias
+# Bayesian CNN Bias for Galaxy Morphology
 
 This Zenodo repository records my investigation into potential bias in the BCNN presented in https://arxiv.org/abs/1905.07424.
 
